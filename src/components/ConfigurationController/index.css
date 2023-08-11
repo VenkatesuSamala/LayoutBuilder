@@ -1,0 +1,38 @@
+.nav-container {
+  height: 25vh;
+  background-color: #475569;
+  font-family: 'Roboto';
+  padding: 0px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.nav-heading {
+  color: #f1f5f9;
+  font-size: 40px;
+  margin: 0px;
+}
+.nav-ul-container {
+  padding: 0px;
+}
+.nav-li-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.mar {
+  margin-bottom: 0px;
+}
+.checkbox {
+  height: 12px;
+  width: 12px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.label {
+  color: #f1f5f9;
+  font-size: 12px;
+  cursor: pointer;
+}
