@@ -16,7 +16,6 @@
   padding: 0px;
 }
 .nav-li-container {
-  list-style-type: none;
   display: flex;
   align-items: center;
   margin-bottom: 10px;
